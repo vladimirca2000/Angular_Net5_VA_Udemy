@@ -2,7 +2,7 @@
 
 ## Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity
 
-# Seja Full-Stack com .NET Web API e Angular + EF Core - V2.0 - [Course](http://www.udemy.com/course/angular-dotnetcore-efcore/?referralCode=F44264DF39DEEE45EC50).
+## Seja Full-Stack com .NET Web API e Angular + EF Core - V2.0 - [Course](http://www.udemy.com/course/angular-dotnetcore-efcore/?referralCode=F44264DF39DEEE45EC50).
 
 The Summary is:
 
