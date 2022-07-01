@@ -1,10 +1,8 @@
-### Angular_Net5_VA_Udemy - ProEventos - Curso da Udemy
+# Angular_Net5_VA_Udemy - ProEventos - Curso da Udemy
 
 ## Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity
 
 # Seja Full-Stack com .NET Web API e Angular + EF Core - V2.0 - [Course](http://www.udemy.com/course/angular-dotnetcore-efcore/?referralCode=F44264DF39DEEE45EC50).
-
-This is all of the files for our Course about Angular, WebAPI and More
 
 The Summary is:
 
